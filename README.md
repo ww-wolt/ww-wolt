@@ -12,11 +12,14 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I'm Jonas Wolter
 - 🫧 I'm a young designer and programmer who loves to critically explore technology and is passionate about creating interactive experiences that blend physical and digital worlds. 
-- 🌱 Currently learning creative shader programming for WebGL coding. 
+- 🌱 Currently studying in the Media Design Master's program at HEAD Geneva.
 
 <!--
+
        
 - 🔭 I’m currently working on ...
+
+- 🌱 Currently learning creative shader programming for WebGL coding. 
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
